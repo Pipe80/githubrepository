@@ -15,7 +15,7 @@ using System.Threading.Tasks;
 	3. Lisää rivi missä Tulostat olion nimi ja paino näytölle.
 	4. Lisää koodiin rivit missä annetaan luodulle oliolle nimi ja paino.
     5. Tulosta olion tiedot nyt näytölle.
-  
+  6.
    
 **/
 namespace Elaimet
