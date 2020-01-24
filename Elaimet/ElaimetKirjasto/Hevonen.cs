@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+
 namespace Elaimet
 {   //Esitellään luokka eli class. Koodi olisi voinut olla Program.cs tiedostossa mutta selkeyden takia luomme jokaisen luokan
     //omaan tiedostoonsa
-    class Hevonen
+    public class Hevonen
     {
         private string nimi;
         private int paino;
