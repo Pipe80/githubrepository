@@ -33,7 +33,7 @@ namespace Elaimet
             while (nimi == "Musti")
             {
                 
-                    Console.WriteLine("Musti ei käy, " + false);
+                    Console.WriteLine("Musti ei ei käy, " + false);
                 break;
                 
                 //else
